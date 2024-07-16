@@ -3,6 +3,8 @@ Based on [this tutorial](https://www.youtube.com/watch?v=IZGNcSuwBZs), this proj
 
 ## Functionality
 Simple quote generator based on [https://api.quotable.io/random](https://api.quotable.io/random)
+![Quote](https://github.com/user-attachments/assets/f02597dc-e689-4526-9810-83d27cc9da64)
+
 
 ## Technical Highlights
 * `sass-loader` / `css-loader` / `style-loader`: to be bundled inside the JS bundle file
